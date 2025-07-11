@@ -1,4 +1,4 @@
-#  Enhance!
+#  Enhance! - Write up
 **Credit:** [picoCTF - Enhance!](https://play.picoctf.org/practice/challenge/265?page=1&search=enhance)
 This is Forensic that is thought to be less difficult than easy:
 <img width="956" height="499" alt="image" src="https://github.com/user-attachments/assets/4451621c-6d39-408b-aaed-c8cd89c74f11" />
